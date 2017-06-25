@@ -1,7 +1,7 @@
 # todolist
 WIP
 
-##Idea:
+## Idea:
 I use a few productivity apps whose functionalities I like and would like to combine. 
     This is more of a learning project than it is an attempt to build a product.
  
@@ -18,6 +18,8 @@ I use a few productivity apps whose functionalities I like and would like to com
 - Google calendar
     - fixed time tasks
     - planning
+- Pomodoro timer
+    - dedicated time for tasks
 
 ## Things I want to learn from this
 - Building APIs using Python/Django
